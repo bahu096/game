@@ -38,7 +38,7 @@ String.toLocaleString({
     '%p1024'                : 'choc. sundae',
     '%p2048'                : 'white choc. peppermint',
     '%p4096'                : '2017 Confetti Vanilla',
-    '%p8192'                : 'Rainbow'
+    '%p8192'                : 'final'
 
 	},
 
@@ -80,7 +80,7 @@ String.toLocaleString({
     '%p1024'                : 'choc. sundae',
     '%p2048'                : 'white choc. peppermint',
     '%p4096'                : '2017 Confetti Vanilla',
-    '%p8192'                : 'Rainbow'
+    '%p8192'                : 'final'
   }
 
 });
